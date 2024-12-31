@@ -1,2 +1,4 @@
 # This repo is used to practice git
-Thank you Kevin for awesome !(video)[https://www.youtube.com/watch?v=tRZGeaHPoaw] on git for beginners! 
+
+Thank you Kevin for the awesome video on [git for beginners](https://www.youtube.com/watch?v=tRZGeaHPoaw)!
+
