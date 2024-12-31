@@ -1,3 +1,0 @@
-# git ignores these files
-"Employee Salaries.txt"
-"secret recipe.html"
